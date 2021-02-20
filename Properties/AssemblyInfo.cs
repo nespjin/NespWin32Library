@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("Win32Library")]
+[assembly: AssemblyTitle("NespWin32Library")]
 [assembly: AssemblyDescription("Win32 Api wrap with C#")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Nesp Technology")]
-[assembly: AssemblyProduct("Win32Library")]
+[assembly: AssemblyProduct("NespWin32Library")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

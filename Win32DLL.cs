@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Win32Library
+namespace NespWin32Library
 {
    public class Win32DLL
     {

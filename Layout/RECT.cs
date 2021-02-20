@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Win32Library.Layout
+namespace NespWin32Library.Layout
 {
     [StructLayout(LayoutKind.Sequential)]
     public struct RECT

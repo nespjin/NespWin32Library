@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Windows.Input;
 using System.Runtime.InteropServices;
 using System.Text;
-using Win32Library.Layout;
+using NespWin32Library.Layout;
 using NespSdkNetFramework.Utils;
 
-namespace Win32Library
+namespace NespWin32Library
 {
     public sealed class WindowManager
     {
