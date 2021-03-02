@@ -8,6 +8,7 @@ namespace NespWin32Library
     {
         public const string USER32 = "user32.dll";
         public const string KERNEL32 = "kernel32.dll";
+        public const string GDI32 = "gdi32.dll";
 
     }
 }
