@@ -4,7 +4,7 @@ using System.Windows.Input;
 using System.Runtime.InteropServices;
 using System.Text;
 using NespWin32Library.Layout;
-using NespSdkNetFramework.Utils;
+using FishSpiderPluginEngineWPF.Utils;
 
 namespace NespWin32Library
 {
